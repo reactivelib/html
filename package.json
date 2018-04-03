@@ -1,0 +1,25 @@
+{
+  "name": "@reactivelib/html",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Virtual reactive DOM using simple JSON objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0",
+    "@reactivelib/core": "1.0.0",
+    "@reactivelib/reactive": "1.0.0"
+  },
+  "homepage": "https://reactivechart.com",
+  "author": {
+    "email": "christoph@rodak.li",
+    "name": "Christoph Rodak"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.0.10",
+    "@types/mocha": "^2.2.44"
+  }
+}
